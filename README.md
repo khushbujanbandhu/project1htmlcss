@@ -7,4 +7,4 @@
 * CSS
 
 ## Description
-This is the parallax website special scrolling technique used in web design 
+* This is the parallax website special scrolling technique used in web design 
